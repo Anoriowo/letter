@@ -1,0 +1,32 @@
+body{background-color: grey;}
+.container{
+				background-color: white;
+				height: 800px;
+				width: 90%;
+				margin:auto;
+				margin-top: 3em;
+				padding:1em;
+				
+}
+.main{
+	font-family: 'Times New Roman', Times, serif;
+}
+.address, .closing {
+				margin-left: 900px;
+				width: 50%;
+				
+}
+.salute{
+				font: italics;
+}
+.recipient{line-space: 0.5em;}
+.title{
+				font-weight: bold;
+				text-align:center;
+}
+.address p, .recipient p{margin-top: 0.2em;
+margin-bottom: 0.2em;
+text-transform: capitalize;}
+.blank{background-color: black;
+border-bottom: black solid 1.5px;
+width: 150px;}
